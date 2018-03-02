@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "530223083222",
+    "firebase_url": "https://simplytimely.firebaseio.com",
+    "project_id": "simplytimely",
+    "storage_bucket": "simplytimely.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530223083222:android:3c449ca12dd9f434",
+        "android_client_info": {
+          "package_name": "com.geekscode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530223083222-r5bho7kafv06igapmnoke19mrj82nv8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACnMrpvrQFXugDGWAUlXGvugoCM5Hoi1Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

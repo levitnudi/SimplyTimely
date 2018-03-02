@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SimplyTimely</string>
+    <string name="input_demo">e.g CMS01 Mon 8:30-9:30 at ABC Hall, CMS02 Tue 2:00-4:30 at Room 003</string>
+    <string name="author_list">Author Profiles :</string>
+    <string name="about_app">SimplyTimely is a responsive scheduling app that seeks to make it easy for students to know their programs
+     through simple sms. It has a wide industrial applications including in workplaces. This application aims at helping individuals find
+    specific information from other people by sending given sms keycode / keyword to their mobile numbers.</string>
+
+    <string name="github" translatable="false"><a href="https://github.com/levitnudi/SimplyTimely">\nProject source code from Github</a></string>
+    <string name="levit"><a href="https://www.linkedin.com/in/levitnudi/">\nLevit Nudi</a></string>
+    <string name="jerusha"><a href="https://www.linkedin.com/in/jerusha-thuo-673b45b1/">\nJerusha Thuo</a></string>
+    <string name="betty"><a href="https://www.linkedin.com/in/bettyvulule/">\nBetty Vulule</a></string>
+    <string name="doris"><a href="https://github.com/levitnudi/SimplyTimely">\nDoris Muthoni</a></string>
+
+
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not a member? Get registered now!</string>
+    <string name="btn_link_to_login">Already Registered? Sign In!</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back">Back</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to send you password reset instructions.</string>
+</resources>
